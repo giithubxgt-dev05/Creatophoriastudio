@@ -1,0 +1,8 @@
+{
+  "name": "Creatophoria Studio — Premium Creative Agency",
+  "description": "Creatophoria Studio is an award-worthy creative agency crafting premium visual identities, motion graphics, video editing, and digital experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
